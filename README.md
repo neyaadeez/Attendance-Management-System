@@ -3,6 +3,22 @@
 ## Abstract
 Attendance Management System is a desktop application developed for daily student attendance in schools, colleges, and institutes. This system allows faculty to access attendance information of a particular student in a particular class, sorted by the operators provided by the teacher. It also helps in evaluating the attendance eligibility criteria of a student. The purpose of developing the attendance management system is to computerize the traditional way of taking attendance and to generate reports automatically at the end or in-between sessions.
 
+## Overview
+
+This repository contains the project documentation for the "Attendance Management System" developed as a DBMS Mini Project for the Trimester VII of the T.Y.B.TECH course in the academic year 2021-22.
+
+## Project Components
+
+- **ER Diagram:** For the ER Diagram and the database schema, please refer to the [AttendanceManagementSystem.pdf](AttendanceManagementSystem.pdf) document.
+
+- **Database Scripts:** DDL commands, DML queries, and other database-related details can be found in the [AttendanceManagementSystem.pdf](AttendanceManagementSystem.pdf) document.
+
+- **Triggers:** Trigger details and functionalities are described in [AttendanceManagementSystem.pdf](AttendanceManagementSystem.pdf).
+
+- **Procedures and Functions:** PL SQL procedures and functions are explained in [AttendanceManagementSystem.pdf](AttendanceManagementSystem.pdf).
+
+- **Frontend GUI Screenshots:** Screenshots of the frontend GUI can be viewed in the [AttendanceManagementSystem.pdf](AttendanceManagementSystem.pdf) document.
+
 ## List of Abbreviations
 
 f_id - Faculty ID   
@@ -41,3 +57,11 @@ Attendance Management System has two main modules for proper functioning:
 
 ## Conclusion
 The Attendance Management System is a solution to all problems related to attendance and fee status. It reduces manual data entry and provides greater efficiency. The user interface is user-friendly and can be easily used by anyone, and all details can only be seen by verified users. The system accurately performs all tasks and can be implemented in various colleges and schools.
+
+## Additional Notes
+
+- For detailed explanations, please refer to the [AttendanceManagementSystem.pdf](AttendanceManagementSystem.pdf) document.
+  
+- If you encounter any issues or have questions, feel free to contact the project contributors listed in the document.
+
+Thank you for your interest in the Attendance Management System project!
