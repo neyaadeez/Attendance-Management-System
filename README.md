@@ -61,7 +61,5 @@ The Attendance Management System is a solution to all problems related to attend
 ## Additional Notes
 
 - For detailed explanations, please refer to the [AttendanceManagementSystem.pdf](AttendanceManagementSystem.pdf) document.
-  
-- If you encounter any issues or have questions, feel free to contact the project contributors listed in the document.
 
 Thank you for your interest in the Attendance Management System project!
